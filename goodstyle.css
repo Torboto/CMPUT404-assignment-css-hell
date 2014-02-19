@@ -1,0 +1,28 @@
+head {
+    background-color: #2DAEE0;
+}
+h1 {
+    background-color: #2DAEE0;
+    position: relative;
+    margin: 0;
+}
+h2 {
+}
+body {
+    font-family: sans-serif;
+    font: verdana;
+}
+p {
+}
+img{
+    border: none;
+}
+.sidebar { 
+    float: right;
+    padding: 2em
+}
+.bio {
+}
+.history {
+}
+
